@@ -1,0 +1,8 @@
+prefix=/media/robot31-4/5AE42FB7E42F93F3/diplom_05_28/devel
+
+Name: dubins_path
+Description: Description of dubins_path
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

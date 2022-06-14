@@ -1,0 +1,2 @@
+a_star:a_star_dub:a_star_new:dubins_path:dubins_test:selected_points_publisher
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/media/robot31-4/5AE42FB7E42F93F3/diplom_05_28/devel -DCMAKE_INSTALL_PREFIX=/media/robot31-4/5AE42FB7E42F93F3/diplom_05_28/install

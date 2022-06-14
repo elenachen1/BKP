@@ -1,0 +1,8 @@
+prefix=/media/robot31-4/5AE42FB7E42F93F3/diplom_05_28/install
+
+Name: a_star_dub
+Description: Description of a_star_dub
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
